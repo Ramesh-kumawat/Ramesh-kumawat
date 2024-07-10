@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ramesh  Kumawat
-<img src="./banner.gif" alt="name banner" />
+<img src="./banner.gif" alt="name banner" style=" width:100%;" />
 
 ### About Me
 <div align="center">
