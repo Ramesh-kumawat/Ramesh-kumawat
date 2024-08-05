@@ -1,5 +1,5 @@
-<video autoplay="autoplay" loop="loop" src="https://github.com/user-attachments/assets/fd440e70-99b2-432e-bf1d-9eec3950f26a" />
-    
+<!--<video autoplay="autoplay" loop="loop" src="https://github.com/user-attachments/assets/fd440e70-99b2-432e-bf1d-9eec3950f26a"/>
+   --> 
 <h1 align="center">Hi, I'm Ramesh Kumawat 👋 </h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ramesh-kumawat.Ramesh-kumawat&left_color=royalblue&right_color=black"  />
@@ -87,6 +87,4 @@
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
-
-
 
