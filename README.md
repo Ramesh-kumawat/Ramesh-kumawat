@@ -1,5 +1,8 @@
 <!--<video autoplay="autoplay" loop="loop" src="https://github.com/user-attachments/assets/fd440e70-99b2-432e-bf1d-9eec3950f26a"/>
    --> 
+   
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
+
 <h1 align="center">Hi, I'm Ramesh Kumawat 👋 </h1>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ramesh-kumawat.Ramesh-kumawat&left_color=royalblue&right_color=black"  />
@@ -79,12 +82,20 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramesh-kumawat&theme=onedark" />
 </div>
 
+
+
 ## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ramesh-kumawat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramesh-kumawat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
- ![](https://raw.githubusercontent.com/Ramesh-Kumawat/Ramesh-Kumawat/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramesh-Kumawat/Ramesh-Kumawat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramesh-Kumawat/Ramesh-Kumawat/output/github-contribution-grid-snake.svg">
+</picture>
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
+
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
 
