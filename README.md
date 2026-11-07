@@ -75,17 +75,27 @@
 
 
 ## My Journey
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Ramesh-kumawat&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh-kumawat&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramesh-kumawat&theme=github">
-  <img width="385px" src="https://streak-stats.demolab.com?user=Ramesh-kumawat&theme=onedark" />
-</div>
-
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh-kumawat&layout=compact&theme=onedark&hide_border=true" alt="Most used languages" />
+</p>
+<p>
+  <a href="https://github.com/Ramesh-kumawat?tab=repositories">
+    <img src="https://img.shields.io/github/repo-count/Ramesh-kumawat?style=for-the-badge&logo=github&label=Public%20repositories" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/Ramesh-kumawat">
+    <img src="https://img.shields.io/github/followers/Ramesh-kumawat?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
 
 ## My Rewards
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramesh-kumawat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <a href="https://github.com/Ramesh-kumawat?tab=overview">
+    <img src="https://img.shields.io/github/stars/Ramesh-kumawat/Ramesh-kumawat?style=for-the-badge&logo=github&label=Profile%20repository%20stars" alt="Profile repository stars" />
+  </a>
+  <a href="https://github.com/Ramesh-kumawat?tab=repositories">
+    <img src="https://img.shields.io/github/commit-activity/y/Ramesh-kumawat?style=for-the-badge&logo=github&label=Yearly%20activity" alt="Yearly commit activity" />
+  </a>
+</p>
 
 ## Feeding...
 <picture>
