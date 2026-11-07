@@ -1,20 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="230" viewBox="0 0 495 230" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="250" viewBox="0 0 520 250" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
-  <desc id="desc">Java 40.81 percent, JavaScript 38.81 percent, CSS 13.43 percent, HTML 5.89 percent, Shell 0.97 percent, AIDL 0.04 percent</desc>
-  <rect width="495" height="230" rx="10" fill="#282c34"/>
-  <text x="34" y="46" fill="#f2b866" font-family="Arial, sans-serif" font-size="25" font-weight="700">Most Used Languages</text>
-  <rect x="34" y="76" width="427" height="11" rx="6" fill="#3b4048"/>
-  <rect x="34" y="76" width="174" height="11" fill="#b87916"/>
-  <rect x="208" y="76" width="166" height="11" fill="#f4df4e"/>
-  <rect x="374" y="76" width="57" height="11" fill="#6a359c"/>
-  <rect x="431" y="76" width="25" height="11" fill="#e84b2a"/>
-  <rect x="456" y="76" width="4" height="11" rx="2" fill="#7ed957"/>
-  <g font-family="Arial, sans-serif" font-size="15">
-    <circle cx="40" cy="122" r="7" fill="#b87916"/><text x="56" y="127" fill="#f06b72">Java 40.81%</text>
-    <circle cx="246" cy="122" r="7" fill="#f4df4e"/><text x="262" y="127" fill="#f06b72">JavaScript 38.81%</text>
-    <circle cx="40" cy="156" r="7" fill="#6a359c"/><text x="56" y="161" fill="#f06b72">CSS 13.43%</text>
-    <circle cx="246" cy="156" r="7" fill="#e84b2a"/><text x="262" y="161" fill="#f06b72">HTML 5.89%</text>
-    <circle cx="40" cy="190" r="7" fill="#7ed957"/><text x="56" y="195" fill="#f06b72">Shell 0.97%</text>
-    <circle cx="246" cy="190" r="7" fill="#8b949e"/><text x="262" y="195" fill="#f06b72">AIDL 0.04%</text>
+  <desc id="desc">A modern profile card showing Java, JavaScript, CSS, HTML, Shell and AIDL usage.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="250" rx="18" fill="url(#bg)"/>
+  <circle cx="468" cy="30" r="42" fill="#8b5cf6" opacity=".12"/>
+  <circle cx="35" cy="220" r="58" fill="#06b6d4" opacity=".08"/>
+  <text x="30" y="42" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Most Used Languages</text>
+  <text x="30" y="65" fill="#94a3b8" font-family="Arial, sans-serif" font-size="13">What I build with every day</text>
+  <rect x="30" y="84" width="460" height="12" rx="6" fill="#334155"/>
+  <rect x="30" y="84" width="188" height="12" rx="6" fill="#f59e0b"/>
+  <rect x="218" y="84" width="179" height="12" fill="#facc15"/>
+  <rect x="397" y="84" width="62" height="12" fill="#8b5cf6"/>
+  <rect x="459" y="84" width="27" height="12" fill="#f97316"/>
+  <rect x="486" y="84" width="4" height="12" rx="2" fill="#22c55e"/>
+  <g font-family="Arial, sans-serif" font-size="14">
+    <circle cx="36" cy="130" r="5" fill="#f59e0b"/><text x="50" y="135" fill="#e2e8f0">Java</text><text x="112" y="135" fill="#94a3b8">40.81%</text>
+    <circle cx="270" cy="130" r="5" fill="#facc15"/><text x="284" y="135" fill="#e2e8f0">JavaScript</text><text x="375" y="135" fill="#94a3b8">38.81%</text>
+    <circle cx="36" cy="166" r="5" fill="#8b5cf6"/><text x="50" y="171" fill="#e2e8f0">CSS</text><text x="112" y="171" fill="#94a3b8">13.43%</text>
+    <circle cx="270" cy="166" r="5" fill="#f97316"/><text x="284" y="171" fill="#e2e8f0">HTML</text><text x="375" y="171" fill="#94a3b8">5.89%</text>
+    <circle cx="36" cy="202" r="5" fill="#22c55e"/><text x="50" y="207" fill="#e2e8f0">Shell</text><text x="112" y="207" fill="#94a3b8">0.97%</text>
+    <circle cx="270" cy="202" r="5" fill="#64748b"/><text x="284" y="207" fill="#e2e8f0">AIDL</text><text x="375" y="207" fill="#94a3b8">0.04%</text>
   </g>
 </svg>
