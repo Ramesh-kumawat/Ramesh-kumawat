@@ -76,25 +76,12 @@
 
 ## My Journey
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh-kumawat&layout=compact&theme=onedark&hide_border=true" alt="Most used languages" />
-</p>
-<p>
-  <a href="https://github.com/Ramesh-kumawat?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/Ramesh-kumawat?style=for-the-badge&logo=github&label=Public%20repositories" alt="Public repositories" />
-  </a>
-  <a href="https://github.com/Ramesh-kumawat">
-    <img src="https://img.shields.io/github/followers/Ramesh-kumawat?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
+  <img width="495" src="https://raw.githubusercontent.com/Ramesh-kumawat/Ramesh-kumawat/main/assets/most-used-languages.svg" alt="Most used languages" />
 </p>
 
 ## My Rewards
 <p>
-  <a href="https://github.com/Ramesh-kumawat?tab=overview">
-    <img src="https://img.shields.io/github/stars/Ramesh-kumawat/Ramesh-kumawat?style=for-the-badge&logo=github&label=Profile%20repository%20stars" alt="Profile repository stars" />
-  </a>
-  <a href="https://github.com/Ramesh-kumawat?tab=repositories">
-    <img src="https://img.shields.io/github/commit-activity/y/Ramesh-kumawat?style=for-the-badge&logo=github&label=Yearly%20activity" alt="Yearly commit activity" />
-  </a>
+  <img width="495" src="https://raw.githubusercontent.com/Ramesh-kumawat/Ramesh-kumawat/main/assets/profile-rewards.svg" alt="GitHub profile rewards" />
 </p>
 
 ## Feeding...

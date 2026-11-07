@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="230" viewBox="0 0 495 230" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Java 40.81 percent, JavaScript 38.81 percent, CSS 13.43 percent, HTML 5.89 percent, Shell 0.97 percent, AIDL 0.04 percent</desc>
+  <rect width="495" height="230" rx="10" fill="#282c34"/>
+  <text x="34" y="46" fill="#f2b866" font-family="Arial, sans-serif" font-size="25" font-weight="700">Most Used Languages</text>
+  <rect x="34" y="76" width="427" height="11" rx="6" fill="#3b4048"/>
+  <rect x="34" y="76" width="174" height="11" fill="#b87916"/>
+  <rect x="208" y="76" width="166" height="11" fill="#f4df4e"/>
+  <rect x="374" y="76" width="57" height="11" fill="#6a359c"/>
+  <rect x="431" y="76" width="25" height="11" fill="#e84b2a"/>
+  <rect x="456" y="76" width="4" height="11" rx="2" fill="#7ed957"/>
+  <g font-family="Arial, sans-serif" font-size="15">
+    <circle cx="40" cy="122" r="7" fill="#b87916"/><text x="56" y="127" fill="#f06b72">Java 40.81%</text>
+    <circle cx="246" cy="122" r="7" fill="#f4df4e"/><text x="262" y="127" fill="#f06b72">JavaScript 38.81%</text>
+    <circle cx="40" cy="156" r="7" fill="#6a359c"/><text x="56" y="161" fill="#f06b72">CSS 13.43%</text>
+    <circle cx="246" cy="156" r="7" fill="#e84b2a"/><text x="262" y="161" fill="#f06b72">HTML 5.89%</text>
+    <circle cx="40" cy="190" r="7" fill="#7ed957"/><text x="56" y="195" fill="#f06b72">Shell 0.97%</text>
+    <circle cx="246" cy="190" r="7" fill="#8b949e"/><text x="262" y="195" fill="#f06b72">AIDL 0.04%</text>
+  </g>
+</svg>
