@@ -62,7 +62,7 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
   <img width="12" />
@@ -77,9 +77,9 @@
 ## My Journey
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Ramesh-kumawat&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ramesh-kumawat&layout=compact&theme=onedark" />
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh-kumawat&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramesh-kumawat&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramesh-kumawat&theme=onedark" />
+  <img width="385px" src="https://streak-stats.demolab.com?user=Ramesh-kumawat&theme=onedark" />
 </div>
 
 
@@ -88,16 +88,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ramesh-kumawat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Feeding...
-## Feeding...
 <picture>
   <!-- If user has dark mode enabled -->
-  <source media="(prefers-color-scheme: dark)" srcset="raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramesh-kumawat/Ramesh-kumawat/output/github-contribution-grid-snake-dark.svg">
   
   <!-- If user has light mode enabled -->
-  <source media="(prefers-color-scheme: light)" srcset="raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramesh-kumawat/Ramesh-kumawat/output/github-contribution-grid-snake.svg">
   
   <!-- Default fallback image -->
-  <img alt="github contribution grid snake animation" src="raw.githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramesh-kumawat/Ramesh-kumawat/output/github-contribution-grid-snake.svg">
 </picture>
 
 ##
@@ -105,4 +104,3 @@
 
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
-
